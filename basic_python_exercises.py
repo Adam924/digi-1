@@ -83,9 +83,11 @@ people = {"Alice": 30, "Bob": 25, "Charlie": 35}
 
 for person in people:
   print(person, people[person])
+  #Hi
 
 people["Dave"] = 40
 print(people)
+
 
 """# Exercise 4: Functions
 
